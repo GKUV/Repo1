@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6A1E-86A1
+
+ Directory of C:\Users\guruk\OneDrive\Desktop\Myproject
+
+01/18/2022  11:09 AM    <DIR>          .
+01/18/2022  11:09 AM    <DIR>          ..
+01/18/2022  11:09 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  885,910,892,544 bytes free
